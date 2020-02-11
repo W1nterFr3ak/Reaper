@@ -28,7 +28,6 @@ def changeNum():
                     cost = f.write(cont.replace("+254111111111", str(number)))
                 recompile()
                 signApk()
-                cleanup()
     except ValueError:
         print("please input phone number minus the (+)")
 
@@ -89,3 +88,4 @@ if __name__ == "__main__":
     #generateKey()
     changeNum()
     #recompile()
+    cleanup()

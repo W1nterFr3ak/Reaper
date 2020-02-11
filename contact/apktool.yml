@@ -2,7 +2,7 @@
 apkFileName: contact.apk
 compressionType: false
 doNotCompress:
-- png
+- arsc
 isFrameworkApk: false
 packageInfo: null
 sdkInfo: null

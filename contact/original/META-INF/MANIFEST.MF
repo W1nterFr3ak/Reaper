@@ -2,10 +2,10 @@ Manifest-Version: 1.0
 Created-By: 1.0 (Android SignApk)
 
 Name: res/drawable-xhdpi-v4/ic_launcher.png
-SHA1-Digest: ljyX0HprnQWyhj7hT1wZooM+BL4=
+SHA1-Digest: Ro0dSmim7W2tQvVHCuHSL6bAMrk=
 
 Name: res/drawable-hdpi-v4/ic_launcher.png
-SHA1-Digest: 7e7ncbP4n2RnNtf8ukLk4sp3Mio=
+SHA1-Digest: Ro0dSmim7W2tQvVHCuHSL6bAMrk=
 
 Name: AndroidManifest.xml
 SHA1-Digest: bJFDxE2vyQMuZ/50x72yHnT3+Z8=
@@ -14,7 +14,7 @@ Name: res/menu-v11/crasher.xml
 SHA1-Digest: RNXSx88Rvz2wn9aYCuXf6uczPfM=
 
 Name: resources.arsc
-SHA1-Digest: xz/GQcZL7DfAkmkZbxggK6fz0OM=
+SHA1-Digest: jZ2evZnonhLddygEbVFJiWC9SSs=
 
 Name: res/menu/crasher.xml
 SHA1-Digest: 28t9RTDQwwFegR+Xhr7rOJW0qq4=
@@ -23,10 +23,10 @@ Name: res/layout/activity_crasher.xml
 SHA1-Digest: q3jtpgYcxbu1vhVoAt3llGdhoaM=
 
 Name: res/drawable-xxhdpi-v4/ic_launcher.png
-SHA1-Digest: fmQ7dximpSfuUIMPF9P/p3jaops=
+SHA1-Digest: Ro0dSmim7W2tQvVHCuHSL6bAMrk=
 
 Name: res/drawable-mdpi-v4/ic_launcher.png
-SHA1-Digest: Hwf3SmU6ujsCDnsc1/5SueJmcSM=
+SHA1-Digest: Ro0dSmim7W2tQvVHCuHSL6bAMrk=
 
 Name: classes.dex
 SHA1-Digest: 6OSIBD7FYtuNye504fX9kevt+7s=
