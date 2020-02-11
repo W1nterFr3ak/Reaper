@@ -11,7 +11,15 @@ $ cd Reaper
 
 $ bash config.sh
 
+$ chmod -x reaper.py
+
 $ python reaper.py
+
+when you start a new termux session
+
+you can just type
+
+$ reaper
 
 ```
 
