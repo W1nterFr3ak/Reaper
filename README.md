@@ -26,4 +26,4 @@ $ reaper
 
 ```
 
-# [] use at your own risk
+# [x] use at your own risk
