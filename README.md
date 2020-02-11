@@ -16,7 +16,7 @@ $ bash config.sh
 
 $ chmod -x reaper.py
 
-$ python reaper.py
+$ python333 reaper.py
 
 when you start a new termux session
 
