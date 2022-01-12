@@ -1,4 +1,4 @@
-# Winter Reaper
+# Winter Reaper for android version < 8.0
 
 
 > reaper is a script that produces a malicious apk
